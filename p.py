@@ -3,6 +3,7 @@ def leapyear(num):
         print('leap year')
     else:
         print('not leap year')
+    #modified
 
 n=2018
 leapyear(n)
